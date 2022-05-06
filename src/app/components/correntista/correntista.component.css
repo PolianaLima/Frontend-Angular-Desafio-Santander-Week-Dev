@@ -1,0 +1,39 @@
+.card-correntista-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+
+}
+
+.card {
+  margin: 5px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+@media screen and (max-width: 575px) {
+  .card-button-co {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+  }
+
+  .card-button-co div {
+    width: 100%;
+
+  }
+
+  .card-correntista-list {
+    justify-content: center;
+
+  }
+
+  .card-correntista-list div {
+    min-width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    justify-content: center;
+
+  }
+}
