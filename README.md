@@ -1,5 +1,7 @@
 # BanklineApp
 
+Projeto desenvolvido em Angular para o desafio Santander no Week Dev
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
